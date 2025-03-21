@@ -20,8 +20,8 @@ Met het Zilver abonnement komt Getwashed 1x per maand langs voor een complete re
 Wenst u 2 wasbeurten per maand? Kies dan voor onze optie waarbij we om de 2 weken langskomen voor een buitenreiniging.
 
 ## Extra opties:
-Bandenspanningscontrole: wij controleren en optimaliseren uw bandenspanning voor een lager brandstofverbruik, aangepast aan het seizoen.
-Frisse geur: bij elke wasbeurt zorgen we voor een aangename, subtiele geur in uw auto.
+- Bandenspanningscontrole: wij controleren en optimaliseren uw bandenspanning voor een lager brandstofverbruik, aangepast aan het seizoen.
+- Frisse geur: bij elke wasbeurt zorgen we voor een aangename, subtiele geur in uw auto.
 
 ## Garantie op qualiteit :
 Wij werken met enthousiaste studenten die gedreven zijn om kwaliteit te leveren. Hun beloning is gekoppeld aan de tevredenheid van onze klanten, waardoor zij streven naar perfectie.
