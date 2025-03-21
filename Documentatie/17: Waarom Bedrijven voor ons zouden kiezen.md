@@ -1,6 +1,8 @@
 # Waarom kiezen bedrijven voor ons?
 
-Getwashed in vergelijking met een conventionele carwashstraat:Getwashed in vergelijking met een andere carwash:Getwashed in vergelijking met een andere carwash die tot bij bedrijven komt: 
+- Getwashed in vergelijking met een conventionele carwashstraat:
+- Getwashed in vergelijking met een andere carwash:
+- Getwashed in vergelijking met een andere carwash die tot bij bedrijven komt: 
 
 ## Door mezelf geschreven: 
 
