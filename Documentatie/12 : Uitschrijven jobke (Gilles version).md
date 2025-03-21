@@ -50,25 +50,33 @@ De dag voor de job(rond 11u ofzo)  word het volgende gedaan:
    * Een student gaat naar de mensen van het kantoor en vragen om de sleutels, voor eventuele verplaatsing
    * De persoon die de verplaatsingen maakt is ook enkel degenen met rijbewijzen 
  3) De student beginnen te wassen aan de hand van de basis pakket
-   * Volgt het waspakket
-   * Neemt foto's van elke wagen before and after, anders geen bonus
+    * Volgt het waspakket
+    * Neemt foto's van elke wagen before and after, anders geen bonus
  4) Studenten zijn klaar met wassen en vertrekken terug richting kantoor
-   * Ze komen het gerief dat ze meegepakt hebben terug op kantoor afzetten
-   * daar controleert er iemand wat ze mee hebben dat het compleet is, als er niemand meer is dan gaan zetten ze het materiaal in de afgetapte plaats en trekken ze een foto
+    * Ze komen het gerief dat ze meegepakt hebben terug op kantoor afzetten
+    * daar controleert er iemand wat ze mee hebben dat het compleet is, als er niemand meer is dan gaan zetten ze het materiaal in de afgetapte plaats en trekken ze een foto
 
 
 ## Op kantoor na de job
 
 Welke zaken gebeuren er in wel compartiment:
  * Quality control (zie aparte excel) 
-  * Controle goed uitgevoerd
-  * Welke wagen hoe vuil ze waren 
-  * Nummerplaat
-  * Wie uitgevoerd
-  * Zet eventuele misgaanders op studenten hun naam
-  * Zet eventuele extras op klanten bestand
+   * Controle goed uitgevoerd
+   * Welke wagen hoe vuil ze waren 
+   * Nummerplaat
+   * Wie uitgevoerd
+   * Zet eventuele misgaanders op studenten hun naam
+   * Zet eventuele extras op klanten bestand
  * Finance
-  * Berekend aan de hand van quality control welke wagen   
+   * Berekend aan de hand van quality control welke wagen
+   * aanvullen van klanten excel
+ * Communicatie
+   * Factuur naar klant sturen + tevredenheid lijst
+   * Lonen uitbetalen aan studenten
+
+
+
+ 
 
 
 
