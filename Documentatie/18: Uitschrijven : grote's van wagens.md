@@ -1,4 +1,4 @@
-#Medium wagens:
+# Medium wagens:
 
 -->Definitie:
     Dit zijn de meest gangbare auto's, zoals sedans, hatchbacks, en kleinere SUV's.
@@ -20,7 +20,7 @@ Medium wagens:
   * Gemiddelde afmetingen, zowel in lengte als breedte.
   * Standaard interieurruimte.
 
-#Large wagens:
+# Large wagens:
 
 -->Definitie:
     Dit zijn grotere auto's, zoals grote sedans, stationwagens, en grotere SUV's.
@@ -44,7 +44,7 @@ Medium wagens:
   * Ruimer interieur en vaak een grotere kofferbak.
 
 
-#XXL Large wagens :
+# XXL Large wagens :
 
 -->Definitie:
     Dit zijn de grootste voertuigen, voornamelijk pick-up trucks en zeer grote SUV's.
