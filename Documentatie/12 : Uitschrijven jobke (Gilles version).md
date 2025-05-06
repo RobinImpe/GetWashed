@@ -47,8 +47,7 @@ De dag voor de job(rond 11u ofzo)  word het volgende gedaan:
    * Water
    * Elektriciteit
    * Eventueel de tent als het slecht weer is of te goed weer is
-   * Een student gaat naar de mensen van het kantoor en vragen om de sleutels, voor eventuele verplaatsing
-   * De persoon die de verplaatsingen maakt is ook enkel degenen met rijbewijzen 
+   * Studenten plaatsten de afschermers tussen de wagens
  3) De student beginnen te wassen aan de hand van de basis pakket
     * Volgt het waspakket
     * Neemt foto's van elke wagen before and after, anders geen bonus
@@ -73,6 +72,8 @@ Welke zaken gebeuren er in wel compartiment:
  * Communicatie
    * Factuur naar klant sturen + tevredenheid lijst
    * Lonen uitbetalen aan studenten
+ * Boekhouder
+   * Invullen in boekhoud pakket
 
 
 
