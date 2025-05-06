@@ -86,8 +86,9 @@ Welke zaken gebeuren er in wel compartiment:
   * Foto nemen voorkant/zijkanten/achterkanten  
   * Begin met het natspuiten van de wagen ondertussen de wielkasten kuisen met hogedruk reiniger en de velgen eens proper spuiten (als er grotere stukken modder / vogelkak er aan hangt spuit je deze al los) 
   * Daarna een laag snowfoam erover (carroserie, velgen) (van onder naar boven) 
-  * Daarna met de borstel er over wrijven (van boven naar onder)
+  * Daarna met de microvezel erover vrijven (geen druk) (van boven naar onder) (neem best 2 microvezel doeken, als de eerste vuil is heb je een 2de) (2 volstaat voor wagen te doen) 
   * Daarna afspoelen (boven naar onder)
+  * Daarna afdrogen met speciale handdoek (zonder druk te gebruiken) 
   * Over de ramen en spiegels gaan met de ramencleaner en microvezeldoek, met niet te veel product of er komen vlekken
 - Einde
   * Foto nemen voor/zij/achter-kant
@@ -104,8 +105,9 @@ Welke zaken gebeuren er in wel compartiment:
   * Foto nemen voorkant/zijkanten/achterkanten + foto van als je de bestuurder deur open doet en naar binnen kijkt + een foto van de koffer
   * Begin met het natspuiten van de wagen ondertussen de wielkasten kuisen met hogedruk reiniger en de velgen eens proper spuiten (als er grotere stukken modder / vogelkak er aan hangt spuit je deze al los)
   * Daarna een laag snowfoam erover (carroserie, velgen) (van onder naar boven) 
-  * Daarna met de borstel er over wrijven (van boven naar onder)
+  * Daarna met de microvezel erover vrijven (geen druk) (van boven naar onder) (neem best 2 microvezel doeken, als de eerste vuil is heb je een 2de) (2 volstaat voor wagen te doen)  
   * Daarna afspoelen (boven naar onder)
+  * Daarna afdrogen met speciale handdoek (zonder druk te gebruiken) 
   * Over de ramen en spiegels gaan met de ramencleaner en microvezeldoek, met niet te veel product of er komen vlekken.
   * Begeef je naar de middelconsole en maak een nieuwe microvezeldoek lichtjes (2-3) sprays met dashboard spary/glasreiniger !GEEN VOCHT! Hierbij kan er snel te veel gebruikt worden, Dus echt niet meer sprays gebruiken dan nodig
   * ramen binnenkant kan met vezeldoek van buitenkant tenzij deze vuil is dan neem je een nieuwe
