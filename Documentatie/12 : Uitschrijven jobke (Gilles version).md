@@ -79,6 +79,23 @@ Welke zaken gebeuren er in wel compartiment:
 
  
 
+# Meer details van een job
+## basic
+> Voorbereiding
+  * Zeggen tegen de chef dat jullie gearriveerd zijn en vragen of er bepaalde wagens niet moeten gewassen worden
+  * Water aansluiten
+  * Elektriciteit leggen
+  * De Afschermers plaatsen (kijk zeker dat ze niet zomaar kunnen omvallen)
+> Start
+  * Foto nemen voorkant/zijkanten/achterkanten  
+  * Begin met het natspuiten van de wagen ondertussen de wielkasten kuisen met hogedruk reiniger en de velgen eens proper spuiten (als er grotere stukken modder / vogelkak er aan hangt spuit je deze al los) 
+  * Daarna een laag snowfoam erover (carroserie, velgen) (van onder naar boven) 
+  * Daarna met de borstel er over wrijven (van boven naar onder)
+  * Daarna afspoelen (boven naar onder)
+  * Over de ramen en spiegels gaan met de ramencleaner en microvezeldoek, met niet te veel product of er komen vlekken
+> Einde
+  * Foto nemen voor/zij/achter-kant
+
 
 
 
