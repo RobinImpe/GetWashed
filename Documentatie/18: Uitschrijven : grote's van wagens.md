@@ -63,7 +63,7 @@ Ruime cabine en een grote laadbak (bij pick-up trucks).
 Voortuigen lichte vracht: Zijn duurder bij old school carwash, pakt gemakkelijk dubbel zo duurd ? ik zou daarbij gaan voor iets duurder gaan
 
 
-Kleine bestelbusjes:
+# Kleine bestelbusjes:
 
 Volkswagen Caddy:
 Opel Combo:
@@ -71,7 +71,7 @@ Ford Transit Connect:
 Renault Kangoo:
 
 
-Middelgrote bestelbusjes:
+# Middelgrote bestelbusjes:
 
 Ford Transit Custom:
 Mercedes-Benz Vito:
@@ -79,7 +79,7 @@ Opel Vivaro:
 Renault Trafic:
 Volkswagen Transporter:
 
-Grote bestelbusjes:
+# Grote bestelbusjes:
 
 Mercedes-Benz Sprinter:
 Volkswagen Crafter:
