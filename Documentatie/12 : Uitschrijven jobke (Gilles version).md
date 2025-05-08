@@ -104,7 +104,8 @@ Welke zaken gebeuren er in wel compartiment:
 - Start
   * Foto nemen voorkant/zijkanten/achterkanten + foto van als je de bestuurder deur open doet en naar binnen kijkt + een foto van de koffer
   * Begin met het natspuiten van de wagen ondertussen de wielkasten kuisen met hogedruk reiniger en de velgen eens proper spuiten (als er grotere stukken modder / vogelkak er aan hangt spuit je deze al los)
-  * Daarna een laag snowfoam erover (carroserie, velgen) (van onder naar boven) 
+  * Daarna een laag snowfoam erover (carroserie, velgen) (van onder naar boven)
+  * Eerst beginnen met de velgenbostel met over de velgen en tussen de velgen te borstelen (heel snel paar keer vrijwen) 
   * Daarna met de microvezel erover vrijven (geen druk) (van boven naar onder) (neem best 2 microvezel doeken, als de eerste vuil is heb je een 2de) (2 volstaat voor wagen te doen)  
   * Daarna afspoelen (boven naar onder)
   * Daarna afdrogen met speciale handdoek (zonder druk te gebruiken) 
