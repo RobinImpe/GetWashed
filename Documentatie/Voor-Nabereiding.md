@@ -8,114 +8,60 @@
 ## 🧰 Materiaalvoorbereiding
   - Box klaarzetten met materialen op de grond (in afgebakende vakken)(zie checklist) (altijd 1 hogedrukreiniger extra meegeven en te veel zeep)  
   - Controleren of alles proper is en werkt
-📞 Teamorganisatie
+## 📞 Teamorganisatie
+  -  Telefoonnummers van alle studenten checken
+  -  Reminder berichten uitsturen
+  -  Eventuele back upper selecteren
+  Avondbriefing:
+  * Wie rijdt?
+  * Wie neemt leiding?
+  * Wie komt wanneer naar kantoor?
+  * Info over het bedrijf en verwachte gedrag
+  * Uitleggen waar en hoe gewassen wordt
+  * Verdienste mededelen
 
-Telefoonnummers van alle studenten checken
+# 🚗 DAG VAN DE JOB
+##📅 Vroeg op kantoor (om 10u15 bij vertrek om 10u45)
+- Iets voor te drinken aanbieden
+- Briefing (foto's nemen = zeer belangerijk) + laden materiaal in wagen(s)
+- Controleer aanwezigheid team
+- Vertel ze zeker ook dat ze best beginnen in de ochtend met de wagens die in de schaduw staan en kijken hoe de zon zich voortbeweegt zodat er niet te veel in vlakke zon gewassen word
+- Rijtijd inschatten: 30 min heen, 30 min terug
+##🏢 Aankomst op locatie
+- teamleader : Klant begroeten, vragen naar 
+Check: (andere)
+ -Staan auto’s ver genoeg?, zoniet = plaasten van afschermers
+    --> Indien niet mogelijk voor afschermers te plaatsen of dubbel geparkeerd: vragen om sleutels of auto’s verplaatsen
+* Elektriciteit & water aansluiten
+* Tent plaatsen indien nodig
+- Teamleader please remind to take pictures
 
-Avondbriefing:
+## ✅ Na de job op locatie
+- Check of alles opgeruimd is
+- 0Gerief verzamelen + terug naar kantoor vertrekken
+- Het gerief terug uitladen+goedeavond zeggen tegen de boyz
 
-Wie rijdt?
-
-Wie neemt leiding?
-
-Wie komt wanneer naar kantoor?
-
-Info over het bedrijf en verwachte gedrag
-
-Uitleggen waar en hoe gewassen wordt
-
-Verdienste mededelen
-
-🚗 DAG VAN DE JOB
-
-📅 Vroeg op kantoor (om 10u15 bij vertrek om 10u45)
-
-Briefing + laden materiaal in wagen(s)
-
-Controleer aanwezigheid team
-
-Rijtijd inschatten: 30 min heen, 30 min terug
-
-🏢 Aankomst op locatie
-
-Klant begroeten, vragen naar sleutels of wagenindeling
-
-Check:
-
-Staan auto’s ver genoeg?
-
-Indien niet: vragen om sleutels of auto’s verplaatsen
-
-Elektriciteit & water aansluiten
-
-Tent plaatsen indien nodig
-
-Afschermers plaatsen tussen wagens (stabiel!)
-
-🚧 Start werk
-
-Brief alle studenten:
-
-Volg pakket-instructies (Basic of Silver)
-
-Neem “Before” foto’s van elke wagen (voor, zij, achter)
-
-Studenten starten met wassen:
-
-Volg stappen van juiste pakket
-
-Gebruik correcte materialen
-
-Geen druk zetten bij microvezelgebruik
-
-Neem “After” foto's van elke wagen
-
-✅ Na de job op locatie
-
-Check of alles opgeruimd is
-
-Gerief verzamelen + terug naar kantoor vertrekken
-
-🏠 OP KANTOOR NA JOB
-
-✉️ Administratie & Facturatie
-
+#🏠 OP KANTOOR NA JOB
+## ✉️ Administratie & Facturatie
 Bereken:
-
 Rijtijd + jobtijd
-
 Kostprijs voor klant
-
 Factuur opstellen + mailen + tevredenheidsformulier meesturen
-
 Klantgegevens aanvullen (via Excel of CRM):
-
-Welke wagens gewassen
-
-Eventuele opmerkingen/schade
-
+Welke wagens gewassen + Eventuele opmerkingen/schade (in QC) 
 Extra diensten
-
 💼 Kwaliteitscontrole
-
 Via aparte Excel:
-
 Check welke wagen door wie is gedaan
-
 Kwaliteitsscore geven (netheid, correcte foto's, uitvoering)
-
 Eventuele fouten noteren op naam student
-
 Indien bonusvoorwaarden gehaald: registreren
 
 💰 Boekhouding & Lonen
-
 Lonen berekenen obv jobduur
-
 Studentenuurloon toewijzen
-
 Verwerking in boekhoudpakket
-
+Bonussen uitschrijven naar student
 MATERIALEN
 - Materialen die terug komen Aanvullen op checklist
 - Verbruiken eventueel ingeven (data verzameling) 
