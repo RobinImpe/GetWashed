@@ -43,25 +43,25 @@ Check: (andere)
 
 #🏠 OP KANTOOR NA JOB
 ## ✉️ Administratie & Facturatie
-Bereken:
-Rijtijd + jobtijd
-Kostprijs voor klant
-Factuur opstellen + mailen + tevredenheidsformulier meesturen
-Klantgegevens aanvullen (via Excel of CRM):
-Welke wagens gewassen + Eventuele opmerkingen/schade (in QC) 
+--> Bereken:
+    *Rijtijd + jobtijd
+    *Kostprijs voor klant
+    *Factuur opstellen + mailen + tevredenheidsformulier meesturen
+    *Klantgegevens aanvullen (via Excel of CRM):  
+    *Welke wagens gewassen + Eventuele opmerkingen/schade (in QC) 
 Extra diensten
 💼 Kwaliteitscontrole
 Via aparte Excel:
-Check welke wagen door wie is gedaan
-Kwaliteitsscore geven (netheid, correcte foto's, uitvoering)
-Eventuele fouten noteren op naam student
-Indien bonusvoorwaarden gehaald: registreren
+  *  Check welke wagen door wie is gedaan
+  *  Kwaliteitsscore geven (netheid, correcte foto's, uitvoering)
+  *  Eventuele fouten noteren op naam student
+  *  Indien bonusvoorwaarden gehaald: registreren
 
 💰 Boekhouding & Lonen
-Lonen berekenen obv jobduur
-Studentenuurloon toewijzen
-Verwerking in boekhoudpakket
-Bonussen uitschrijven naar student
+- Lonen berekenen obv jobduur
+- Studentenuurloon toewijzen
+- Verwerking in boekhoudpakket
+- Bonussen uitschrijven naar student
 MATERIALEN
 - Materialen die terug komen Aanvullen op checklist
 - Verbruiken eventueel ingeven (data verzameling) 
