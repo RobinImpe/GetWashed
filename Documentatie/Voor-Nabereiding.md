@@ -24,6 +24,7 @@
 ##📅 Vroeg op kantoor (om 10u15 bij vertrek om 10u45)
 - Iets voor te drinken aanbieden
 - Briefing (foto's nemen = zeer belangerijk) + laden materiaal in wagen(s)
+- Contracten laten tekenen.
 - Controleer aanwezigheid team
 - Vertel ze zeker ook dat ze best beginnen in de ochtend met de wagens die in de schaduw staan en kijken hoe de zon zich voortbeweegt zodat er niet te veel in vlakke zon gewassen word
 - Rijtijd inschatten: 30 min heen, 30 min terug
@@ -38,7 +39,8 @@ Check: (andere)
 
 ## ✅ Na de job op locatie
 - Check of alles opgeruimd is
-- 0Gerief verzamelen + terug naar kantoor vertrekken
+- Invullen van werkuren 
+- Gerief verzamelen + terug naar kantoor vertrekken
 - Het gerief terug uitladen+goedeavond zeggen tegen de boyz
 
 #🏠 OP KANTOOR NA JOB
@@ -48,7 +50,7 @@ Check: (andere)
     *Kostprijs voor klant
     *Factuur opstellen + mailen + tevredenheidsformulier meesturen
     *Klantgegevens aanvullen (via Excel of CRM):  
-    *Welke wagens gewassen + Eventuele opmerkingen/schade (in QC) 
+    *Welke wagens gewassen + Eventuele opmerkingen/schade (in QC) (+ uren invullen in studenten excel) 
 Extra diensten
 💼 Kwaliteitscontrole
 Via aparte Excel:
@@ -58,7 +60,7 @@ Via aparte Excel:
   *  Indien bonusvoorwaarden gehaald: registreren
 
 💰 Boekhouding & Lonen
-- Lonen berekenen obv jobduur
+- Lonen berekenen obv jobduur maar controleer met aantal wagens, eventueel toevoegen als er een trage student tussen zit
 - Studentenuurloon toewijzen
 - Verwerking in boekhoudpakket
 - Bonussen uitschrijven naar student
