@@ -47,7 +47,7 @@ Check: (andere)
 ## ✉️ Administratie & Facturatie
 --> Bereken:
     *Rijtijd + jobtijd
-    *Kostprijs voor klant
+    *Kostprijs voor klant + verbruik van goederen ook aanrekenen
     *Factuur opstellen + mailen + tevredenheidsformulier meesturen
     *Klantgegevens aanvullen (via Excel of CRM):  
     *Welke wagens gewassen + Eventuele opmerkingen/schade (in QC) (+ uren invullen in studenten excel) 
