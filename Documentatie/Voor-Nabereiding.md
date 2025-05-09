@@ -52,14 +52,14 @@ Check: (andere)
     *Klantgegevens aanvullen (via Excel of CRM):  
     *Welke wagens gewassen + Eventuele opmerkingen/schade (in QC) (+ uren invullen in studenten excel) 
 Extra diensten
-💼 Kwaliteitscontrole
+## 💼 Kwaliteitscontrole
 Via aparte Excel:
   *  Check welke wagen door wie is gedaan
   *  Kwaliteitsscore geven (netheid, correcte foto's, uitvoering)
   *  Eventuele fouten noteren op naam student
   *  Indien bonusvoorwaarden gehaald: registreren
 
-💰 Boekhouding & Lonen
+## 💰 Boekhouding & Lonen
 - Lonen berekenen obv jobduur maar controleer met aantal wagens, eventueel toevoegen als er een trage student tussen zit
 - Studentenuurloon toewijzen
 - Verwerking in boekhoudpakket
