@@ -1,6 +1,6 @@
 # ✨ VOORBEREIDING (1 dag voor de job - rond 11u)
 ## 📆 Administratief & Communicatie
-  - Klant contacteren:
+  - Klant contacteren: 
   - Tijdstip bevestigen waarop team toekomt
   - Duidelijke uitleg geven over onze werking (bestand/mail)
   - Vragen of er speciale instructies/wagens zijn voor de volgende dag, maar normaal is er de klantenbestand met de informatie
