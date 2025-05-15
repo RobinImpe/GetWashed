@@ -1,44 +1,48 @@
-# Medium wagens:
+## Medium wagens
+(Sedans, hatchbacks, compacte SUV’s – voldoende ruimte maar geen grote afmetingen)
 
--->Definitie:
-    Dit zijn de meest gangbare auto's, zoals sedans, hatchbacks, en kleinere SUV's.
-    Ze bieden voldoende ruimte voor een gezin, maar zijn niet overdreven groot.
--->Voorbeelden:
-Medium wagens:
+* Golf	Volkswagen
+* Polo	Volkswagen
+* Focus	Ford
+* Corolla	Toyota
+* Octavia	Skoda
+* Astra	Opel
+* 308	Peugeot
+* Megane	Renault
+* Ceed	Kia
+* i30	Hyundai
+* Model 3	Tesla
+* A3	Audi
+* Mini	BMW (Mini)
+* 4 Reeks (Coupe/GC)	BMW
 
--  Volkswagen Golf/Polo
--  Ford Focus
--  Toyota Corolla
--  Skoda Octavia
--  Opel Astra
--  Peugeot 308
--  Renault Megane
--  Kia Ceed
--  Hyundai i30
-  
--->Kenmerken:
-  * Gemiddelde afmetingen, zowel in lengte als breedte.
-  * Standaard interieurruimte.
+Kenmerken: Compact tot gemiddeld formaat, standaard bagageruimte, wendbaar, lagere kosten in verbruik en onderhoud.
 
-# Large wagens:
+## Large wagens
+(Grotere SUV’s, stationwagens, executive sedans – meer ruimte en comfort)
 
--->Definitie:
-    Dit zijn grotere auto's, zoals grote sedans, stationwagens, en grotere SUV's.
-  Ze bieden meer ruimte voor passagiers en bagage.
--->Voorbeelden:
--  Volvo XC90
--  Skoda Superb 
--  Volkswagen ID.4
--  Nissan X-Trail
--  Volkswagen ID.Buzz / berlingo 
--  Audi Q
--  BMW X
--  Mercedes-Benz GLE
--  Volkswagen Touareg
--  Skoda Enyaq
--  Mercedes C-klasse
--  BMW 3 serie
--  Audi A4/A6
+* Model	Merk
+* XC90	Volvo
+* ID.4	Volkswagen
+* ID.Buzz	Volkswagen
+* Superb	Skoda
+* Enyaq	Skoda
+* GLE	Mercedes-Benz
+* Touareg	Volkswagen
+* Q4 e-tron	Audi
+* Q3	Audi
+* Q8 / Q5	Audi
+* EQB	Mercedes-Benz
+* EQA	Mercedes-Benz
+* X1, X3	BMW
+* 5 Reeks	BMW
+* 3 Reeks	BMW
+* A4 / A6	Audi
+* XC40	Volvo
+* EX30	Volvo
+* C-Klasse	Mercedes-Benz
+* X-Trail	Nissan
+
 -->Kenmerken:
   * Grotere afmetingen dan medium wagens.
   * Ruimer interieur en vaak een grotere kofferbak.
