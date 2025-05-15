@@ -21,7 +21,6 @@ Kenmerken: Compact tot gemiddeld formaat, standaard bagageruimte, wendbaar, lage
 ## Large wagens
 (Grotere SUV’s, stationwagens, executive sedans – meer ruimte en comfort)
 
-* Model	Merk
 * XC90	Volvo
 * ID.4	Volkswagen
 * ID.Buzz	Volkswagen
